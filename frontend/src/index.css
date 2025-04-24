@@ -33,4 +33,9 @@
   line-height: 44px;
 }
 
+.grid-cols-auto {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+ 
+}
+
  
